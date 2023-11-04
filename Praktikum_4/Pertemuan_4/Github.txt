@@ -1,0 +1,23 @@
+Mhafizhrz
+
+hafizhrizqi270203@gmail.com
+
+echo "# tugas_web_1" >> README.md
+git init
+
+git config --list
+git config --global user.email " "
+git config --global user.name " "
+git config --list
+
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mhafizhrz/tugas_web_1.git
+git push -u origin main / master
+
+
+/* Cara Update */
+git add .
+git status
+git push -u origin main / master
